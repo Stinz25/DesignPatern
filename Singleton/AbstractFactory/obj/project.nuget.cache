@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RZofhTC1Qk6+EWm+fRwPLrMGkpNrZyrKEE6uyLMLO4xu/3eFXtUfXlmTh+tIbwr3QuKTkIp92VhUmLDq9ti0TA==",
+  "success": true,
+  "projectFilePath": "D:\\GIT DIAGE\\DesignPatern\\DesignPatern\\Singleton\\AbstractFactory\\AbstractFactory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Francois\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

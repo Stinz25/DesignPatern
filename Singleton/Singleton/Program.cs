@@ -6,7 +6,18 @@ namespace Singleton
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var singleton1 = MySingleton.GetInstance();
+            var singleton2 = MySingleton.GetInstance();
+
+            if (singleton1 == singleton2)
+            {
+                Console.WriteLine("ils sont égaux");
+            }
+            else
+            {
+                Console.WriteLine("Pas égaux");
+            }
+
         }
     }
 }
